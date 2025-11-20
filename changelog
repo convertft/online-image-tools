@@ -1,0 +1,50 @@
+# **Changelog**
+
+## **V1.4.2 – 2025-11-19**
+
+**Added**
+
+* Support for converting between multiple animated image formats, including APNG, GIF, WebP, and AVIF.
+* Improved real-time processing by automatically showing the latest results, providing a smoother and faster user experience.
+* Updated instructions for converting JPG to and from other image formats, making them easier to follow.
+
+---
+
+## **V1.4.1 – 2025-11-13**
+
+**Added**
+
+* Added more processing function pages to meet users' diverse needs.
+* Optimized the display of unknown blogs and reduced invalid pages.
+
+---
+
+## **V1.4.0 – 2025-10-05**
+
+**Added**
+
+* **Supercharged Batch Editing:** Continue editing other images while your batch process runs—no more waiting around.
+* **"My Files" View:** Track edited images in real time and download all edited files with a single click.
+* **New Download Page:** Monitor image processing progress in real time for full control over your workflow.
+* **Expanded Animated Format Support:** Seamlessly convert between APNG, GIF, WebP, and AVIF.
+
+**Fixed**
+
+* Long processing time issue during batch editing resolved for faster workflows.
+* Failure messages now display clearly when image processing fails.
+* Fixed a bug that prevented animated PNGs from converting to animated WebP. Animated images now retain motion during conversion.
+
+---
+
+## **V1.3.3 – 2025-06-22**
+
+**Added**
+
+* Enabled image lazy loading to improve page responsiveness and performance.
+* Refined page layout and design for a better user experience.
+
+**Fixed**
+
+* Resolved bulk download issues that were blocked by some browsers, preventing certain images from downloading.
+
+---
